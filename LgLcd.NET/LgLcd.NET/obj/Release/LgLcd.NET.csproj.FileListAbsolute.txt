@@ -1,0 +1,12 @@
+C:\Users\mikel\Desktop\LgLCD.Net\LgLcd.NET\LgLcd.NET\bin\Release\LgLcd.NET.Contracts.dll
+C:\Users\mikel\Desktop\LgLCD.Net\LgLcd.NET\LgLcd.NET\bin\Release\LgLcd.NET.Contracts.pdb
+C:\Users\mikel\Desktop\LgLCD.Net\LgLcd.NET\LgLcd.NET\bin\Release\LgLcd.NET.dll
+C:\Users\mikel\Desktop\LgLCD.Net\LgLcd.NET\LgLcd.NET\bin\Release\LgLcd.NET.pdb
+C:\Users\mikel\Desktop\LgLCD.Net\LgLcd.NET\LgLcd.NET\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mikel\Desktop\LgLCD.Net\LgLcd.NET\LgLcd.NET\obj\Release\LgLcd.NET.dll
+C:\Users\mikel\Desktop\LgLCD.Net\LgLcd.NET\LgLcd.NET\obj\Release\LgLcd.NET.pdb
+C:\Users\Wint\Documents\LgLcd.NET Library\LgLcd.NET\LgLcd.NET\obj\Release\LgLcd.NET.dll
+C:\Users\Wint\Documents\LgLcd.NET Library\LgLcd.NET\LgLcd.NET\obj\Release\LgLcd.NET.pdb
+C:\Users\Wint\Documents\LgLcd.NET Library\LgLcd.NET\LgLcd.NET\bin\Release\LgLcd.NET.dll
+C:\Users\Wint\Documents\LgLcd.NET Library\LgLcd.NET\LgLcd.NET\bin\Release\LgLcd.NET.pdb
+C:\Users\Wint\Documents\LgLcd.NET Library\LgLcd.NET\LgLcd.NET\obj\Release\LgLcd.NET.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+﻿Build started 1/16/2014 11:43:18 PM.
+     1>Project "C:\Users\Wint\Documents\LgLcd.NET Library\lcd_dll\lcd_dll.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D LCD_DLL_EXPORTS /D _VC80_UPGRADE=0x0710 /D _WINDLL /D _MBCS /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\lcd_dll.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D LCD_DLL_EXPORTS /D _VC80_UPGRADE=0x0710 /D _WINDLL /D _MBCS /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\lcd_dll.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt lcd_dll.cpp
+         lcd_dll.cpp
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\Users\Wint\Documents\LgLcd.NET Library\lcd_dll\Release\lcd_dll.dll) does not match the Linker's OutputFile property value (C:\Users\Wint\Documents\LgLcd.NET Library\lcd_dll\Release\LgLcd.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(lcd_dll) does not match the Linker's OutputFile property value (LgLcd). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Release\LgLcd.dll" /INCREMENTAL:NO /NOLOGO LogitechLcd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"lcd_dll.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Release\lcd_dll.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"Release\lcd_dll.lib" /MACHINE:X86 /SAFESEH /DLL Release\lcd_dll.obj
+         Release\stdafx.obj
+            Creating library Release\lcd_dll.lib and object Release\lcd_dll.exp
+     1>lcd_dll.exp : warning LNK4070: /OUT:lcd_dll.dll directive in .EXP differs from output filename 'Release\LgLcd.dll'; ignoring directive
+         lcd_dll.vcxproj -> C:\Users\Wint\Documents\LgLcd.NET Library\lcd_dll\Release\lcd_dll.dll
+     1>Done Building Project "C:\Users\Wint\Documents\LgLcd.NET Library\lcd_dll\lcd_dll.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.59

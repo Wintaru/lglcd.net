@@ -1,0 +1,7 @@
+C:\Users\mikel\Desktop\LgLCD.Net\LgLcd.NET\LgLcd.NET\bin\Debug\LgLcd.NET.Contracts.dll
+C:\Users\mikel\Desktop\LgLCD.Net\LgLcd.NET\LgLcd.NET\bin\Debug\LgLcd.NET.Contracts.pdb
+C:\Users\mikel\Desktop\LgLCD.Net\LgLcd.NET\LgLcd.NET\bin\Debug\LgLcd.NET.dll
+C:\Users\mikel\Desktop\LgLCD.Net\LgLcd.NET\LgLcd.NET\bin\Debug\LgLcd.NET.pdb
+C:\Users\mikel\Desktop\LgLCD.Net\LgLcd.NET\LgLcd.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mikel\Desktop\LgLCD.Net\LgLcd.NET\LgLcd.NET\obj\Debug\LgLcd.NET.dll
+C:\Users\mikel\Desktop\LgLCD.Net\LgLcd.NET\LgLcd.NET\obj\Debug\LgLcd.NET.pdb
